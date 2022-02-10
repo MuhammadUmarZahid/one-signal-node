@@ -1,0 +1,16 @@
+{
+  "name": "onesignalpush",
+  "version": "1.0.0",
+  "description": "create push notification for android in node",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "onesignal-node": "^3.3.0"
+  }
+}
